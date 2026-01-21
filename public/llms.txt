@@ -1,0 +1,58 @@
+# AURORA — Generative Engine Optimization Map
+
+> A מזון ומשקאות - תה יפני business.
+
+---
+
+## Pages
+
+### דף הבית
+https://aurora-2dbc47de.zappy5.app
+גלו את עולם התה היפני האיכותי עם AURORA - מאצ'ה, הוג'יצ'ה ותה ירוק מקורי מיפן. קנייה אונליין בטוחה ומשלוחים מהירים
+
+### המוצרים שלנו
+https://aurora-2dbc47de.zappy5.app/products
+גלו את מגוון מוצרי התה היפני האיכותי של AURORA - מאצ'ה פרימיום, הוג'יצ'ה פחית 50 גרם, תה ירוק ועוד. קנייה אונליין מאצ'ה איכותית
+
+### אודות
+https://aurora-2dbc47de.zappy5.app/about
+הכירו את AURORA - המובילים בייבוא תה יפני איכותי לישראל. הסיפור שלנו, החזון שלנו והמחויבות שלנו לאיכות ולמסורת יפנית
+
+### צור קשר
+https://aurora-2dbc47de.zappy5.app/contact
+צרו קשר עם AURORA לשאלות, הזמנות או מידע נוסף על מוצרי התה היפני האיכותי שלנו. נשמח לעזור לכם
+
+## Legal & Policy
+
+### Privacy Policy
+https://aurora-2dbc47de.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://aurora-2dbc47de.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://aurora-2dbc47de.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AURORA
+AURORA is a business in the מזון ומשקאות - תה יפני industry.
+
+## Target Audience
+- חובבי תה בריא
+- מחפשי סגנון חיים יוקרתי
+
+## Industry
+מזון ומשקאות - תה יפני
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://aurora-2dbc47de.zappy5.app/sitemap.xml
+- **Robots.txt**: https://aurora-2dbc47de.zappy5.app/robots.txt

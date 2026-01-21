@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aurora-2dbc47de.zappy5.app/sitemap.xml
